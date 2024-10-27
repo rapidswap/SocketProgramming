@@ -145,7 +145,7 @@ public:
 		}
 
 		//Accepter 쓰레드를 종료한다.
-		mIsWorkerRun = false;
+		mIsAccepterRun = false;
 		closesocket(mListenSocket);
 
 		if (mAccepterThread.joinable())

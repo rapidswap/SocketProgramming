@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\uAC15\uD615\uC9C4\\Desktop\\IOCP\uC2E4\uC2B5\\study\\IOCP_01\\",
+  "WorkspaceRootPath": "C:\\github\\IOCP_cpp\\IOCP_\uC2E4\uC2B5\\IOCP_01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{777FF5A7-8BED-4692-848F-DDF282036AF9}|IOCP_01.vcxproj|C:\\Users\\\uAC15\uD615\uC9C4\\Desktop\\IOCP\uC2E4\uC2B5\\study\\IOCP_01\\IOCompletionPort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{777FF5A7-8BED-4692-848F-DDF282036AF9}|IOCP_01.vcxproj|C:\\github\\IOCP_cpp\\IOCP_\uC2E4\uC2B5\\IOCP_01\\IOCompletionPort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{777FF5A7-8BED-4692-848F-DDF282036AF9}|IOCP_01.vcxproj|solutionrelative:IOCompletionPort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{777FF5A7-8BED-4692-848F-DDF282036AF9}|IOCP_01.vcxproj|C:\\Users\\\uAC15\uD615\uC9C4\\Desktop\\IOCP\uC2E4\uC2B5\\study\\IOCP_01\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{777FF5A7-8BED-4692-848F-DDF282036AF9}|IOCP_01.vcxproj|C:\\github\\IOCP_cpp\\IOCP_\uC2E4\uC2B5\\IOCP_01\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{777FF5A7-8BED-4692-848F-DDF282036AF9}|IOCP_01.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\\uAC15\uD615\uC9C4\\Desktop\\IOCP\uC2E4\uC2B5\\study\\IOCP_01\\main.cpp",
+              "DocumentMoniker": "C:\\github\\IOCP_cpp\\IOCP_\uC2E4\uC2B5\\IOCP_01\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\Users\\\uAC15\uD615\uC9C4\\Desktop\\IOCP\uC2E4\uC2B5\\study\\IOCP_01\\main.cpp",
+              "ToolTip": "C:\\github\\IOCP_cpp\\IOCP_\uC2E4\uC2B5\\IOCP_01\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-27T18:14:24.078Z",
               "EditorCaption": ""
@@ -37,11 +37,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "IOCompletionPort.h",
-              "DocumentMoniker": "C:\\Users\\\uAC15\uD615\uC9C4\\Desktop\\IOCP\uC2E4\uC2B5\\study\\IOCP_01\\IOCompletionPort.h",
+              "DocumentMoniker": "C:\\github\\IOCP_cpp\\IOCP_\uC2E4\uC2B5\\IOCP_01\\IOCompletionPort.h",
               "RelativeDocumentMoniker": "IOCompletionPort.h",
-              "ToolTip": "C:\\Users\\\uAC15\uD615\uC9C4\\Desktop\\IOCP\uC2E4\uC2B5\\study\\IOCP_01\\IOCompletionPort.h",
+              "ToolTip": "C:\\github\\IOCP_cpp\\IOCP_\uC2E4\uC2B5\\IOCP_01\\IOCompletionPort.h",
               "RelativeToolTip": "IOCompletionPort.h",
-              "ViewState": "AgIAAIQAAAAAAAAAAAAiwJkAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAAAJEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-10-27T16:39:32.359Z",
               "EditorCaption": ""
