@@ -1,0 +1,4 @@
+﻿  hello_client_win.c
+C:\Users\강형진\source\repos\SocketProgramming\Server\01.win\hello_client_win\hello_client_win.c(3,9): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+C:\Users\강형진\source\repos\SocketProgramming\Server\01.win\hello_client_win\hello_client_win.c(31,6): warning C4013: 'inet_pton'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  hello_client_win.vcxproj -> C:\Users\강형진\source\repos\SocketProgramming\Server\01.win\hello_client_win\x64\Debug\hello_client_win.exe
