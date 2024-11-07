@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\github\\SocketProgramming\\c\\Client\\02.win\\tcp_client_win.c\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC117B73-A7B4-4972-B0BE-44C328895051}|tcp_client_win.c.vcxproj|C:\\github\\SocketProgramming\\c\\Client\\02.win\\tcp_client_win.c\\tcp_client_win.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CC117B73-A7B4-4972-B0BE-44C328895051}|tcp_client_win.c.vcxproj|solutionrelative:tcp_client_win.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tcp_client_win.c",
+              "DocumentMoniker": "C:\\github\\SocketProgramming\\c\\Client\\02.win\\tcp_client_win.c\\tcp_client_win.c",
+              "RelativeDocumentMoniker": "tcp_client_win.c",
+              "ToolTip": "C:\\github\\SocketProgramming\\c\\Client\\02.win\\tcp_client_win.c\\tcp_client_win.c",
+              "RelativeToolTip": "tcp_client_win.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-07T16:00:12.561Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

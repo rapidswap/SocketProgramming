@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\강형진\source\repos\SocketProgramming\Server\01.win\x64\Debug\hello_server_win.exe</FullPath>
+      <FullPath>C:\github\SocketProgramming\c\Server\01.win\x64\Debug\hello_server_win.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
