@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\uAC15\uD615\uC9C4\\source\\repos\\SocketProgramming\\Server\\01.win\\hello_client_win\\",
+  "WorkspaceRootPath": "C:\\github\\SocketProgramming\\c\\Client\\01.win\\hello_client_win\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A1B280E7-A4B8-4480-A9AB-E9FBBC3176BD}|hello_client_win.vcxproj|C:\\Users\\\uAC15\uD615\uC9C4\\source\\repos\\SocketProgramming\\Server\\01.win\\hello_client_win\\hello_client_win.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A1B280E7-A4B8-4480-A9AB-E9FBBC3176BD}|hello_client_win.vcxproj|C:\\github\\SocketProgramming\\c\\Client\\01.win\\hello_client_win\\hello_client_win.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A1B280E7-A4B8-4480-A9AB-E9FBBC3176BD}|hello_client_win.vcxproj|solutionrelative:hello_client_win.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "hello_client_win.c",
-              "DocumentMoniker": "C:\\Users\\\uAC15\uD615\uC9C4\\source\\repos\\SocketProgramming\\Server\\01.win\\hello_client_win\\hello_client_win.c",
+              "DocumentMoniker": "C:\\github\\SocketProgramming\\c\\Client\\01.win\\hello_client_win\\hello_client_win.c",
               "RelativeDocumentMoniker": "hello_client_win.c",
-              "ToolTip": "C:\\Users\\\uAC15\uD615\uC9C4\\source\\repos\\SocketProgramming\\Server\\01.win\\hello_client_win\\hello_client_win.c*",
+              "ToolTip": "C:\\github\\SocketProgramming\\c\\Client\\01.win\\hello_client_win\\hello_client_win.c*",
               "RelativeToolTip": "hello_client_win.c*",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACkAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-11-04T12:09:10.656Z",
               "EditorCaption": ""
