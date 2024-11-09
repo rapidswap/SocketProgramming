@@ -1,0 +1,4 @@
+﻿  conv_addr_win.c
+C:\github\SocketProgramming\c\Endian_and_Inet\Windows\WSAStringToAddress_and_WSAAddressToString\conv_addr_win.c(19,2): warning C4996: 'WSAStringToAddressA': Use WSAStringToAddressW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\github\SocketProgramming\c\Endian_and_Inet\Windows\WSAStringToAddress_and_WSAAddressToString\conv_addr_win.c(21,2): warning C4996: 'WSAAddressToStringA': Use WSAAddressToStringW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  WSAStringToAddress_and_WSAAddressToString.vcxproj -> C:\github\SocketProgramming\c\Endian_and_Inet\Windows\WSAStringToAddress_and_WSAAddressToString\x64\Debug\WSAStringToAddress_and_WSAAddressToString.exe

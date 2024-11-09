@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\github\\SocketProgramming\\c\\Endian_and_Inet\\Windows\\endian\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08F296AE-B0F9-4634-A7AD-EE7D42CDC9E9}|endian.vcxproj|C:\\github\\SocketProgramming\\c\\Endian_and_Inet\\Windows\\endian\\endian_conv_win.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08F296AE-B0F9-4634-A7AD-EE7D42CDC9E9}|endian.vcxproj|solutionrelative:endian_conv_win.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "endian_conv_win.c",
+              "DocumentMoniker": "C:\\github\\SocketProgramming\\c\\Endian_and_Inet\\Windows\\endian\\endian_conv_win.c",
+              "RelativeDocumentMoniker": "endian_conv_win.c",
+              "ToolTip": "C:\\github\\SocketProgramming\\c\\Endian_and_Inet\\Windows\\endian\\endian_conv_win.c",
+              "RelativeToolTip": "endian_conv_win.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-09T15:59:23.416Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
