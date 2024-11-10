@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\github\\SocketProgramming\\c\\Client\\echo_client_Win\\echo_client_win\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{499B3A74-7BBD-424F-9882-128F6BC458DE}|echo_client_win.vcxproj|C:\\github\\SocketProgramming\\c\\Client\\echo_client_Win\\echo_client_win\\echo_client_win.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{499B3A74-7BBD-424F-9882-128F6BC458DE}|echo_client_win.vcxproj|solutionrelative:echo_client_win.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "echo_client_win.c",
+              "DocumentMoniker": "C:\\github\\SocketProgramming\\c\\Client\\echo_client_Win\\echo_client_win\\echo_client_win.c",
+              "RelativeDocumentMoniker": "echo_client_win.c",
+              "ToolTip": "C:\\github\\SocketProgramming\\c\\Client\\echo_client_Win\\echo_client_win\\echo_client_win.c",
+              "RelativeToolTip": "echo_client_win.c",
+              "ViewState": "AgIAACcAAAAAAAAAAAAUwDUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-10T17:01:11.636Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
