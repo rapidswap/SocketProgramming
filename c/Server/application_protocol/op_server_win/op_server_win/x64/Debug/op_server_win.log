@@ -1,0 +1,3 @@
+﻿  op_server_win.c
+C:\github\SocketProgramming\c\Server\application_protocol\op_server_win\op_server_win.c(51,19): warning C4133: '함수': 'int *'과(와) 'char *' 사이의 형식이 호환되지 않습니다.
+  op_server_win.vcxproj -> C:\github\SocketProgramming\c\Server\application_protocol\op_server_win\x64\Debug\op_server_win.exe
