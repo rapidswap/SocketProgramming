@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\github\\SocketProgramming\\c\\Server\\echo_selectserv\\echo_selectserv\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA60CE28-3BDF-4868-9317-B7B8A5BE1259}|echo_selectserv.vcxproj|C:\\github\\SocketProgramming\\c\\Server\\echo_selectserv\\echo_selectserv\\echo_selectserv_win.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA60CE28-3BDF-4868-9317-B7B8A5BE1259}|echo_selectserv.vcxproj|solutionrelative:echo_selectserv_win.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "echo_selectserv_win.c",
+              "DocumentMoniker": "C:\\github\\SocketProgramming\\c\\Server\\echo_selectserv\\echo_selectserv\\echo_selectserv_win.c",
+              "RelativeDocumentMoniker": "echo_selectserv_win.c",
+              "ToolTip": "C:\\github\\SocketProgramming\\c\\Server\\echo_selectserv\\echo_selectserv\\echo_selectserv_win.c*",
+              "RelativeToolTip": "echo_selectserv_win.c*",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-20T17:36:46.6Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

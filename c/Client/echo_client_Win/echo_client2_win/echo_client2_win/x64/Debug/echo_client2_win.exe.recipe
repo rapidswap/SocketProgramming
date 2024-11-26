@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\github\SocketProgramming\c\Client\application_protocol\echo_client2_win\x64\Debug\echo_client2_win.exe</FullPath>
+      <FullPath>C:\github\SocketProgramming\c\Client\echo_client_Win\echo_client2_win\x64\Debug\echo_client2_win.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
