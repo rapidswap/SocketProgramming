@@ -4,7 +4,7 @@
 #include<unistd.h>
 #include<arpa/inet.h>
 #include<sys/socket.h>
-
+//파일 디스크립터 하프클로즈 존재
 #define BUF_SIZE 30
 void error_handling(char*message);
 

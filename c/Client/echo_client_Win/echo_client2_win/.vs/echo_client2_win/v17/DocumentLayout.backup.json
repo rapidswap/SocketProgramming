@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\github\\SocketProgramming\\c\\Client\\application_protocol\\echo_client2_win\\",
+  "WorkspaceRootPath": "C:\\github\\SocketProgramming\\c\\Client\\echo_client_Win\\echo_client2_win\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A0BE860E-E155-4CCF-96C0-216AEB560AEF}|echo_client2_win.vcxproj|C:\\github\\SocketProgramming\\c\\Client\\application_protocol\\echo_client2_win\\echo_client2_win.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A0BE860E-E155-4CCF-96C0-216AEB560AEF}|echo_client2_win.vcxproj|C:\\github\\SocketProgramming\\c\\Client\\echo_client_Win\\echo_client2_win\\echo_client2_win.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A0BE860E-E155-4CCF-96C0-216AEB560AEF}|echo_client2_win.vcxproj|solutionrelative:echo_client2_win.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "echo_client2_win.c",
-              "DocumentMoniker": "C:\\github\\SocketProgramming\\c\\Client\\application_protocol\\echo_client2_win\\echo_client2_win.c",
+              "DocumentMoniker": "C:\\github\\SocketProgramming\\c\\Client\\echo_client_Win\\echo_client2_win\\echo_client2_win.c",
               "RelativeDocumentMoniker": "echo_client2_win.c",
-              "ToolTip": "C:\\github\\SocketProgramming\\c\\Client\\application_protocol\\echo_client2_win\\echo_client2_win.c",
+              "ToolTip": "C:\\github\\SocketProgramming\\c\\Client\\echo_client_Win\\echo_client2_win\\echo_client2_win.c",
               "RelativeToolTip": "echo_client2_win.c",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAADQAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAD0AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-11-11T17:50:44.907Z",
               "EditorCaption": ""
