@@ -20,7 +20,7 @@ int main(int argc,char* argv[])
 {
     int sock;
     struct sockaddr_in serv_addr;
-    pthread_t snd_thread,rcv_thread;// 굳이 쓰레드를 나눌 필요는 없으나 실습위해 넣어봤음.
+    pthread_t snd_thread,rcv_thread;// 쓰레디 기반 클라이언트라 설정.
     void* thread_return;
 
     if(argc!=4)
