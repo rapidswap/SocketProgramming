@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\github\\SocketProgramming\\c\\Thread\\Windows\\thread_win1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CEFE48A-7EF1-4E79-9A53-022C3576ADD8}|thread_win1.vcxproj|C:\\github\\SocketProgramming\\c\\Thread\\Windows\\thread_win1\\thread_win3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0CEFE48A-7EF1-4E79-9A53-022C3576ADD8}|thread_win1.vcxproj|solutionrelative:thread_win3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "thread_win3.c",
+              "DocumentMoniker": "C:\\github\\SocketProgramming\\c\\Thread\\Windows\\thread_win1\\thread_win3.c",
+              "RelativeDocumentMoniker": "thread_win3.c",
+              "ToolTip": "C:\\github\\SocketProgramming\\c\\Thread\\Windows\\thread_win1\\thread_win3.c",
+              "RelativeToolTip": "thread_win3.c",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwCUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-11T19:00:10.406Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
