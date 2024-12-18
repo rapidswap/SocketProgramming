@@ -1,0 +1,4 @@
+﻿  chat_serv_win.c
+C:\github\SocketProgramming\c\Thread\Windows\chat_serv_win\chat_serv_win.c(27,10): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+C:\github\SocketProgramming\c\Thread\Windows\chat_serv_win\chat_serv_win.c(27,10): warning C4313: 'printf': 서식 문자열의 '%d'이(가) char *' 형식의 인수 1과(와) 충돌합니다.
+  chat_serv_win.vcxproj -> C:\github\SocketProgramming\c\Thread\Windows\chat_serv_win\x64\Debug\chat_serv_win.exe
