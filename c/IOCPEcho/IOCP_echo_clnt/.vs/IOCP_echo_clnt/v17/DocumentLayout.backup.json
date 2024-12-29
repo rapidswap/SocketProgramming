@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\github\\SocketProgramming\\c\\IOCPEcho\\IOCP_echo_clnt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C20E5EEB-38ED-4AB1-8F2A-AA2BA60C5AB5}|IOCP_echo_clnt.vcxproj|C:\\github\\SocketProgramming\\c\\IOCPEcho\\IOCP_echo_clnt\\IOCPEchoClnt.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C20E5EEB-38ED-4AB1-8F2A-AA2BA60C5AB5}|IOCP_echo_clnt.vcxproj|solutionrelative:IOCPEchoClnt.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IOCPEchoClnt.c",
+              "DocumentMoniker": "C:\\github\\SocketProgramming\\c\\IOCPEcho\\IOCP_echo_clnt\\IOCPEchoClnt.c",
+              "RelativeDocumentMoniker": "IOCPEchoClnt.c",
+              "ToolTip": "C:\\github\\SocketProgramming\\c\\IOCPEcho\\IOCP_echo_clnt\\IOCPEchoClnt.c",
+              "RelativeToolTip": "IOCPEchoClnt.c",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-29T09:31:08.295Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
