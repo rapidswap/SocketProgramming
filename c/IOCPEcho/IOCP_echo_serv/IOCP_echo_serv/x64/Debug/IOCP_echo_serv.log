@@ -1,5 +1,4 @@
 ﻿  IOCPEchoServ_win.c
 C:\github\SocketProgramming\c\IOCPEcho\IOCP_echo_serv\IOCPEchoServ_win.c(48,16): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\github\SocketProgramming\c\IOCPEcho\IOCP_echo_serv\IOCPEchoServ_win.c(72,55): warning C4311: '형식 캐스트': 'LPPER_HANDLE_DATA'에서 'DWORD'(으)로 포인터가 잘립니다.
-C:\github\SocketProgramming\c\IOCPEcho\IOCP_echo_serv\IOCPEchoServ_win.c(98,13): warning C4133: '함수': 'LPDWORD'과(와) 'PULONG_PTR' 사이의 형식이 호환되지 않습니다.
+C:\github\SocketProgramming\c\IOCPEcho\IOCP_echo_serv\IOCPEchoServ_win.c(100,13): warning C4133: '함수': 'LPDWORD'과(와) 'PULONG_PTR' 사이의 형식이 호환되지 않습니다.
   IOCP_echo_serv.vcxproj -> C:\github\SocketProgramming\c\IOCPEcho\IOCP_echo_serv\x64\Debug\IOCP_echo_serv.exe

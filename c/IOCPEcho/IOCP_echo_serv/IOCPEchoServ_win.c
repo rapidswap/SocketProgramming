@@ -1,4 +1,4 @@
-#pragma comment(lib, "ws2_32.lib")
+﻿#pragma comment(lib, "ws2_32.lib")
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -66,10 +66,12 @@ int main(int argc, char* argv[])
 		hClntSock = accept(hServSock, (SOCKADDR*)&clntAdr, &addrLen);
 
 		handleInfo = (LPPER_HANDLE_DATA)malloc(sizeof(PER_HANDLE_DATA));
+		memset(handleInfo, 0, sizeof(PER_HANDLE_DATA)); //메모리 초기화를 해줘야 오류가 안남.
+
 		handleInfo->hClntSock = hClntSock;
 		memcpy(&(handleInfo->clntAdr), &clntAdr, addrLen);
 
-		CreateIoCompletionPort((HANDLE)hClntSock, hComPort, (DWORD)handleInfo, 0);
+		CreateIoCompletionPort((HANDLE)hClntSock, hComPort, (DWORD_PTR)handleInfo, 0); //핸들정보는 DWORD->DWORD_PTR(구조체의 포인터)로 변경
 
 		ioInfo = (LPPER_IO_DATA)malloc(sizeof(PER_IO_DATA));
 		memset(&(ioInfo->overlapped), 0, sizeof(OVERLAPPED));
@@ -101,7 +103,7 @@ DWORD WINAPI EchoThreadMain(LPVOID pComPort)
 		if (ioInfo->rwMode == READ)
 		{
 			puts("message received!");
-			if (bytesTrans == 0)    // EOF ���� ��
+			if (bytesTrans == 0)    
 			{
 				closesocket(sock);
 				free(handleInfo); free(ioInfo);
