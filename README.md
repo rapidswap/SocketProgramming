@@ -5,3 +5,5 @@
 ## 참고: https://github.com/jacking75/edu_cpp_IOCP, 윤성우 열혈 TCP/IP 소켓프로그래밍
 
 1. 복습 내용 정리 각 단원 별 작성예정
+
+2. 리포지토리 단원 별 정리
