@@ -33,11 +33,11 @@ int WSAStartup(WORD wVersionRequested, LPWSADATA& pWsasData) 성공시 0 실패�
 * 프로토콜(Protocol)은 컴퓨터 상호간의 데이터 송수신에 필요한 통신 규약. 즉, 약속이다.
 
 * 프로토콜 체계 -> 도구
- * PF_INET     -> IPv4
- * PF_INET6    -> IPv6
- * PF_LOCAL    -> 로컬통신
- * PF_PACKET   -> Lowlevel 소켓
- * PF_IPX      -> IPX노벨
+  * PF_INET     -> IPv4
+  * PF_INET6    -> IPv6
+  * PF_LOCAL    -> 로컬통신
+  * PF_PACKET   -> Lowlevel 소켓
+  * PF_IPX      -> IPX노벨
 소켓의 타입은 큰 그림에서의 데이터 전송 방식으로 보이고, 소켓이 생성될 때 타입이 결정되어야 한다.
 
 * PF_INET의 대표 타입 2개
