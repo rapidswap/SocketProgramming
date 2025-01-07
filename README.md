@@ -12,10 +12,47 @@
 2. bind 호출 int bind(int fockfd, struct sockaddr* myaddr, socklen_t addrlen), 성공시 0 실패시 -1
 3. listen 호출 int listen(int sockfd, int backlog) 성공시 0 실패시 -1
 4. accept 호출 int accept(int sockfd, struct sockaddr* addr, socklen_t* addrlen) 성고시 파일 디스크립터, 실패시 -1
-   > 요약
+   > 요약 하면 아래와 같다.
    > 1. 소켓 생성
    > 2. IP주소와 PORT 번호 할당
    > 3. 연결 요청 가능상태 변경
    > 4. 연결 요청에 대한 수락
    > 즉, 서버 소켓은 리스닝 소켓, 연결요청은 클라이언트 소켓
+---
+**윈속 프로그래밍을 할때는 WSAStartup 함수를 호출해서 프로그램이 요구하는 윈도우 소켓 버전을 알리고, 해당 지원하는 라이브러리르 초기화 해야한다.**
+
+int WSAStartup(WORD wVersionRequested, LPWSADATA& pWsasData) 성공시 0 실패시 에러코드를 반환
+
+호출 했다면 마지막엔 해제를 시켜야 하기에 WSACleanup함수를 호출하여 해제 시킨다.
+
+**Windows 기반 함수와 Linux와 다르지 않다(자료형 차이) Windows는 파일과 소켓을 구분하지만 Linux에서는 소켓을 파일로 인식한다.**
+
+### 소켓의 타입과 프로토콜의 설정
+
+송수신하는 방법을 정해야한다. 방법을 정하고 그 방법대로 소켓을 생성해야하기 때문이다.
+* 프로토콜(Protocol)은 컴퓨터 상호간의 데이터 송수신에 필요한 통신 규약. 즉, 약속이다.
+
+* 프로토콜 체계 -> 도구
+ * PF_INET     -> IPv4
+ * PF_INET6    -> IPv6
+ * PF_LOCAL    -> 로컬통신
+ * PF_PACKET   -> Lowlevel 소켓
+ * PF_IPX      -> IPX노벨
+소켓의 타입은 큰 그림에서의 데이터 전송 방식으로 보이고, 소켓이 생성될 때 타입이 결정되어야 한다.
+
+* PF_INET의 대표 타입 2개
+ * 연결 지향형 - 데이터 전송 보장, 연결 속도가 상대적으로 느리다.
+  > SOCK_STREAM
+  > 1. 중간 데이터 손실이 없다.
+  > 2. 전송 순서대로 데이터를 수신한다.
+  > 3. 데이터 경계가 없다.
+  > 4. 소켓 대 소켓의 연결을 반드시 1대1 구조로 이루어진다.  
+ * 비연결 지향형 - 데이터 전송이 보장이 안됨, 연결 속도가 상대적으로 빠르다.
+   > SOCK_DGRAM
+   > 1. 전송 순서 상관없이 빠른속도로 전달한다.
+   > 2. 데이터 손실 및 판손 문제가 있다.
+   > 3. 데이터 경계가 존재한다.
+   > 4. 한 번에 보낼수 있는 데이터 크기 제한이 있다.
+
+
  
