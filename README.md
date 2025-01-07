@@ -12,9 +12,10 @@
 2. bind 호출 int bind(int fockfd, struct sockaddr* myaddr, socklen_t addrlen), 성공시 0 실패시 -1
 3. listen 호출 int listen(int sockfd, int backlog) 성공시 0 실패시 -1
 4. accept 호출 int accept(int sockfd, struct sockaddr* addr, socklen_t* addrlen) 성고시 파일 디스크립터, 실패시 -1
-5. > 요약: 1. 소켓 생성
+   > 요약
+   > 1. 소켓 생성
    > 2. IP주소와 PORT 번호 할당
    > 3. 연결 요청 가능상태 변경
    > 4. 연결 요청에 대한 수락
-   >    즉, 서버 소켓은 리스닝 소켓, 연결요청은 클라이언트 소켓
+   > 즉, 서버 소켓은 리스닝 소켓, 연결요청은 클라이언트 소켓
  
