@@ -7,7 +7,7 @@
 **!! 소프트웨어적으로 데이터 송신을 도와주는 것이 소켓(Socket)이고 이 소켓은 운영체제에서 제공해준다.**
 * 소켓) 네트워크망에 접속하기 위한 도구로 두 컴퓨터 간 연결을 의미한다.
   * _예) 전화망을 통한 목소리 전달하는 전화기가 Socket_
-
+ 
 1. 소켓 생성은 int socket(int domain, int type, int protocol)로 호출하며 성공시 파일 디스크립터, 실패시 -1을 반환 하게 된다.
 2. bind 호출 int bind(int fockfd, struct sockaddr* myaddr, socklen_t addrlen), 성공시 0 실패시 -1
 3. listen 호출 int listen(int sockfd, int backlog) 성공시 0 실패시 -1
